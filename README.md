@@ -30,17 +30,3 @@ An interactive Streamlit dashboard to manage and analyze food wastage data.
 
 ### 🧠 SQL Queries
 ![SQL](sql_queries.png)
-
-
-## 🔗 Live App
-https://your-app.streamlit.app
-
-## 📁 Project Structure
-- app.py
-- requirements.txt
-- CSV datasets
-
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
